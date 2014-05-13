@@ -1,6 +1,7 @@
 ---
   tags: micro, oop, arrays, nested arrays, initialization
   languages: ruby
+  resources: 1
 ---
 
 # Animal Sorter
@@ -17,3 +18,5 @@ Run the test suite with the `rspec` command.
 Implement an "AnimalSorter" class that makes the tests pass.
 
 Your program can have a pre-existing list of animal classifications.
+## Resources
+* [Learn to Program](http://books.flatironschool.com/books/43) - [Chapter 13: Creating New Classes, Changing Existing Ones](http://books.flatironschool.com/books/43), page 113
