@@ -13,9 +13,11 @@ take a list of animals on initialization, and instances should respond to a `.to
 
 ## Instructions
 
-Run the test suite with the `rspec` command.
+Create a class called `AnimalSorter`. There will be two contants, which will be arrays, that AnimalSorter knows about: sea animals and land animals.
 
-Implement an "AnimalSorter" class that makes the tests pass.
+Land animals should contain the strings aardvark, cat, and elephant. Sea animals should contain the strings marlin, octopus, and fish.
+
+Now that setup is out of the way, run the test suite with the `rspec` command.
 
 Your program can have a pre-existing list of animal classifications.
 ## Resources
