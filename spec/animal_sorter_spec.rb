@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe "AnimalSorter" do
   describe '#to_a' do
     animals = ["marlin", "aardvark", "octopus", "cat", "fish", "elephant"]
