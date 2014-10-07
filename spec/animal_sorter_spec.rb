@@ -1,12 +1,12 @@
 describe "AnimalSorter" do
-  it "has a constant array that contains land animals"
+  it "has a constant array that contains land animals" do
     expect(AnimalSorter::LAND_ANIMALS.class).to eq(Array)
     ["aardvark", "cat", "elephant"].each do |land_animal|
       expect(AnimalSorter::LAND_ANIMALS).to include(land_animal)
     end
   end
 
-  it "has a constant array that contains sea animals"
+  it "has a constant array that contains sea animals" do
     expect(AnimalSorter::SEA_ANIMALS.class).to eq(Array)
     ["marlin", "octopus", "fish"].each do |sea_animal|
       expect(AnimalSorter::SEA_ANIMALS).to include(sea_animal)
