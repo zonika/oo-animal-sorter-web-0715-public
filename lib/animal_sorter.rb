@@ -1,4 +1,9 @@
-# Build a class AnimalSorter that accepts a list of animals on 
+# Build a class AnimalSorter
+
+# Make sure there are two constants that AnimalSorter knows about, 
+# SEA_ANIMALS and LAND_ANIMALS
+
+# AnimalSorter should be able to accept an array of animals on 
 # initialization.
 
 # Define a to_a method to account for the species in the test suite.

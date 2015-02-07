@@ -6,6 +6,8 @@
 
 # Animal Sorter
 
+![animal cartoon](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/oo-labs/animals.jpg)
+
 ## Description
 
 You will be writing a class, `AnimalSorter` that, well, sorts a list of animals. It should
