@@ -21,5 +21,3 @@ Land animals should contain the strings aardvark, cat, and elephant. Sea animals
 Now that setup is out of the way, run the test suite with the `rspec` command.
 
 Your program can have a pre-existing list of animal classifications.
-## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43?page=113) - [Chapter 13: Creating New Classes, Changing Existing Ones](http://books.flatironschool.com/books/43?page=113), page 113
