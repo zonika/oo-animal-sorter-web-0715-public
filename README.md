@@ -1,8 +1,4 @@
----
-  tags: micro, oop, arrays, nested arrays, initialization
-  languages: ruby
-  resources: 1
----
+
 
 # Animal Sorter
 
